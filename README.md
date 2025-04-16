@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @bgelvez
+- 🪽 Founder of  epaonco, the first advanced practice oncology nursing company in Chile and Latin America
 - 👀 I’m interested in omics sciences and data science
 - 🌱 I’m currently learning clinical genomics, precision medicine, genetic counseling and data science
 - 💞️ I’m looking to collaborate on research that brings science closer to people
 - 📫 How to reach me b.gelvez@gmail.com 
-- 🪽 I founded epaonco, the first advanced practice oncology nursing company in Chile and Latin America
 - ⚡ Fun fact: I love coffee and 80% dark chocolate
 
 
